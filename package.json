@@ -1,0 +1,16 @@
+{
+  "name": "uci-challenge-07-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Simple README generator from user input in the terminal via Inquirer npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Petros",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
