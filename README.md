@@ -2,7 +2,7 @@
 Simple README generator from user input in the terminal via Inquirer npm package.
 
 
-[![Watch the video](https://github.com/brianleepetros/uci-challenge-07-nodejs/blob/main/README.md)](https://youtu.be/RbLgJzlP5FY)
+[![Watch the video](https://img.youtube.com/vi/RbLgJzlP5FY/maxresdefault.jpg)](https://youtu.be/RbLgJzlP5FY)
 
 
 
