@@ -1,4 +1,4 @@
-# uci-challenge-07-nodejs
+# uci-07-nodejs-readme-generator
 Simple README generator from user input in the terminal via Inquirer npm package.
 
 
